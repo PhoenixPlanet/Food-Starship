@@ -69,5 +69,6 @@ public class Dish : MonoBehaviour
         sauce.Flavor.Green = 1f;
         sauce.Flavor.Blue = 1f;
         topping.ToppingSprite = null;
+        portions = 0;
     }
 }

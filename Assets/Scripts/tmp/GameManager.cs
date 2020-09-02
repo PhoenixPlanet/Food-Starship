@@ -87,6 +87,7 @@ public class GameManager : MonoBehaviour
     }
     private void Reset()
     {
+        accuracy = 0;
         dish.Reset();
         MakeRandomDish(order);
     }

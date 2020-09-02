@@ -1560,6 +1560,11 @@ MonoBehaviour:
   txt_state: {fileID: 1612221644}
   order: {fileID: 627317629}
   dish: {fileID: 152170669}
+  toppings:
+  - {fileID: 232976163}
+  - {fileID: 10381550}
+  - {fileID: 1693914142}
+  - {fileID: 685867376}
 --- !u!4 &1007431718
 Transform:
   m_ObjectHideFlags: 0
@@ -2421,7 +2426,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000019073, y: 0.0000038147}
+  m_AnchoredPosition: {x: 0.0000019073, y: 0.000003814701}
   m_SizeDelta: {x: 155.78868, y: 138.9329}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2032370601
